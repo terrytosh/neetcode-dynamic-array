@@ -1,0 +1,5 @@
+To compile and run the program:
+```
+g++ main.cpp da.cpp -o a.out
+./a.out
+```
